@@ -59,6 +59,8 @@ version:
 
 (Assuming you git cloned owljs into ~/repos/)
 
+Optionally, install the FaCT++ Reasoner by download the appropriate library for your operating system from the [FaCT++ Google Drive folder](https://drive.google.com/drive/u/1/folders/0B688Ilel_jz_OVktYU5SdGpsek0), and then copying "libFaCTPlusPlusJNI.jnilib" to "/Library/Java/Extensions", or the logical equivalent based on your OS and location of Java installation. 
+
 # Getting started
 
 You can use the pre-packaged scripts without any knowledge of the
